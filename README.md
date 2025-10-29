@@ -4,8 +4,6 @@
 
 
 
-- 🌱 I’m currently learning **Database, both frontend and backend**
-
 - 📫 How to reach me **mirouqn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
