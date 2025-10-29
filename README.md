@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Oulmi Amir</h1>
-<h3 align="center">A Passionate student of CS from algeria</h3>
 
 
 
